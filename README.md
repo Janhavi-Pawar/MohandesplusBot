@@ -1,6 +1,6 @@
 # MohandesplusBot
 A Telegram bot for managing telegram channels.
-This bot was created to automatically handle channel jobs like sending messages at some time or ...
+This bot was created to automatically handle channel jobs like sending messages at some time or manage other work related to telegfram channels
 
 This was created using [akalongman's php telegram bot framwork](https://github.com/akalongman/php-telegram-bot).
 
